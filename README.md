@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Decika Das</h1>
+<h1 align="center">Hi 👋, I'm Dekika Das</h1>
 <h3 align="center">AI Enthusiast | Developer from India 🇮🇳</h3>
 
 ---
