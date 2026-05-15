@@ -4,10 +4,11 @@
 ---
 
 ## 🌱 Currently Learning
+- C
 - C++
 - SQL
 - Python  
-- Artificial Intelligence
+- Generative AI
 
 ---
 
