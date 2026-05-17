@@ -12,13 +12,6 @@
 
 ---
 
-## 💬 Ask Me About
-- Artificial Intelligence  
-- Web Development  
-- Python & Backend Development  
-
----
-
 ## 📫 Contact Me
 📧 dasdevika2003@gmail.com  
 
